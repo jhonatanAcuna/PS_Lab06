@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/jacun/OneDrive/Escritorio/2020-A/PS-L/Lab06/Ejercicio5/Ejercicio5.cpp
+iostream
+-
+Ejercicio5.h
+C:/Users/jacun/OneDrive/Escritorio/2020-A/PS-L/Lab06/Ejercicio5/Ejercicio5.h
+fstream
+-
+
+C:/Users/jacun/OneDrive/Escritorio/2020-A/PS-L/Lab06/Ejercicio5/Ejercicio5.h
+
