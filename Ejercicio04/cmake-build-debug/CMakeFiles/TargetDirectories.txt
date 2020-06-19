@@ -1,0 +1,3 @@
+C:/Users/jacun/OneDrive/Escritorio/2020-A/PS-L/Lab06/Ejercicio04/cmake-build-debug/CMakeFiles/Ejercicio04.dir
+C:/Users/jacun/OneDrive/Escritorio/2020-A/PS-L/Lab06/Ejercicio04/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jacun/OneDrive/Escritorio/2020-A/PS-L/Lab06/Ejercicio04/cmake-build-debug/CMakeFiles/rebuild_cache.dir
