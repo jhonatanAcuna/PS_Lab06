@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/jacun/OneDrive/Escritorio/2020-A/PS-L/Lab06/Ejercicio2/Ejercicio2.cpp
+Ejercicio2.h
+C:/Users/jacun/OneDrive/Escritorio/2020-A/PS-L/Lab06/Ejercicio2/Ejercicio2.h
+iostream
+-
+fstream
+-
+cstring
+-
+
+C:/Users/jacun/OneDrive/Escritorio/2020-A/PS-L/Lab06/Ejercicio2/Ejercicio2.h
+
+C:/Users/jacun/OneDrive/Escritorio/2020-A/PS-L/Lab06/Ejercicio2/main.cpp
+iostream
+-
+Ejercicio2.h
+C:/Users/jacun/OneDrive/Escritorio/2020-A/PS-L/Lab06/Ejercicio2/Ejercicio2.h
+
